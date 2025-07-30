@@ -19,7 +19,7 @@ decision-making analysis with integrated sensitivity analysis and visualizations
 Clone the repository and install it in editable mode:
 
 ```
-git clone https://github.com/your-username/mabac-app.git
+git clone https://github.com/KageNoDev/mabac-app.git
 cd mabac-app
 pip install -e .
 ```
