@@ -90,4 +90,4 @@ MIT License
 
 👤 Author
 ---------
-Created by [Your Name] – feel free to contribute or fork!
+Created by [Laura Białobrzewska] – feel free to contribute or fork!
